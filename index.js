@@ -1,4 +1,3 @@
-
 (function () {
     // Function to hide the target element when it appears
     function hideTargetElement() {
