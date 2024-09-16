@@ -1,4 +1,4 @@
-alert("script is loaded from github 2");
+
 (function () {
     // Function to hide the target element when it appears
     function hideTargetElement() {
