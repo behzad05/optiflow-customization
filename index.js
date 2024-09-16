@@ -2,7 +2,7 @@ alert("script is loaded from github 2");
 (function () {
     // Function to hide the target element when it appears
     function hideTargetElement() {
-        const targetSelector = "#smartlists > div.hl_controls.hl_smartlists--controls > div.hl_controls--left > span.bulk-actions-list > span:nth-child(14) > button";
+        const targetSelector = "#main-app > div > div > div > div > div.grid.grid-cols-2.lg\\:grid-cols-4.gap-3.mb-6";
         const targetElement = document.querySelector(targetSelector);
 
         if (targetElement) {
