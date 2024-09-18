@@ -220,7 +220,7 @@ observeAddToAutomationButton();
             "#tb_tasks",
             "#tb_business",
             "#tb_contacts-settings-top"
-            "#tb_contact-custom-fields-settings",
+            "#tb_contact-custom-fields-settings"
         ];
 
         selectors.forEach((selector, index) => {
